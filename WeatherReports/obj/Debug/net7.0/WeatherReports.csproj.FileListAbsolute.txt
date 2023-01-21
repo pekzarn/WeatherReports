@@ -1,0 +1,15 @@
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\bin\Debug\net7.0\WeatherReports.exe
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\bin\Debug\net7.0\WeatherReports.deps.json
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\bin\Debug\net7.0\WeatherReports.runtimeconfig.json
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\bin\Debug\net7.0\WeatherReports.dll
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\bin\Debug\net7.0\WeatherReports.pdb
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\obj\Debug\net7.0\WeatherReports.csproj.AssemblyReference.cache
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\obj\Debug\net7.0\WeatherReports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\obj\Debug\net7.0\WeatherReports.AssemblyInfoInputs.cache
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\obj\Debug\net7.0\WeatherReports.AssemblyInfo.cs
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\obj\Debug\net7.0\WeatherReports.csproj.CoreCompileInputs.cache
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\obj\Debug\net7.0\WeatherReports.dll
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\obj\Debug\net7.0\refint\WeatherReports.dll
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\obj\Debug\net7.0\WeatherReports.pdb
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\obj\Debug\net7.0\WeatherReports.genruntimeconfig.cache
+C:\Users\Simon\RiderProjects\WeatherReports\WeatherReports\obj\Debug\net7.0\ref\WeatherReports.dll
